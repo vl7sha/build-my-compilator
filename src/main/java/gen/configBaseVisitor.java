@@ -1,5 +1,7 @@
-package gen;// Generated from /home/user/OpenideProjects/BuildMyCompilator/config.g4 by ANTLR 4.13.2
+package gen;
 
+
+import org.antlr.v4.runtime.tree.AbstractParseTreeVisitor;
 
 /**
  * This class provides an empty implementation of {@link configVisitor},

@@ -1,5 +1,7 @@
-package gen;// Generated from /home/user/OpenideProjects/BuildMyCompilator/config.g4 by ANTLR 4.13.2
+package gen;
 
+
+import org.antlr.v4.runtime.tree.ParseTreeVisitor;
 
 /**
  * This interface defines a complete generic visitor for a parse tree produced
